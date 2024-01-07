@@ -1,0 +1,27 @@
+Color theme for my own branded stuff when I represent stuff for my person.
+
+Still researching best way to do things 
+
+References to take from:
+
+
+Main Color:
+
+Black  = 000000
+reds   = e2371f, e93a20, d00a1c
+yellow = ffff00, ddfa00
+white  = d4d4d4
+
+What other colors should I include, need to include some more but which ones?
+
+Additional supplemental colors:
+
+some sort of tial: 1496b9, 0098c8
+dark grey?: 4b4b4b
+
+Scratch:
+"button.background": "#434343",
+
+
+
+
